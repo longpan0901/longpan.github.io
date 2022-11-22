@@ -16,14 +16,20 @@ I am working on choice modeling and facility optimization of transportation.
 # My Background and History
 
 ## Work Experience
-1. 2022.11 – now     Beijing Jiaotong University, China  Assistant Professor
-2. 2020.07 - 2022.11 Beijing University of Technology, China  Postdoctoral Researcher
-3. 2021.01 – 2022.09 Polytechnique Montreal, Canada Postdoctoral Researcher
-4. 2021.01 – 2022.09 BusPas Inc., Canada Transportation Specialist
-
-
+1. 2022.11 – now     Assistant Professor, Beijing Jiaotong University, China  
+2. 2020.07 - 2022.11 Postdoctoral Researcher, Beijing University of Technology, China  
+3. 2021.01 – 2022.09 Postdoctoral Researcher, Polytechnique Montreal, Canada 
+4. 2021.01 – 2022.09 Transportation Specialist, BusPas Inc., Canada 
 
 ## Study Experience
+*2014 - 2019 PhD in Traffic and Transportation Planning and Management, School of Traffic and Transportation, Beijing Jiaotong University, Beijing, China.
+
+
+
+
+
+
+
 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
