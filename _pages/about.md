@@ -16,10 +16,10 @@ I am working on choice modeling and facility optimization of transportation.
 # My Background and History
 
 ## Work Experience
-2022.11 – now     Beijing Jiaotong University, China  Assistant Professor
-2020.07 - 2022.11 Beijing University of Technology, China  Postdoctoral Researcher
-2021.01 – 2022.09 Polytechnique Montreal, Canada Postdoctoral Researcher
-2021.01 – 2022.09 BusPas Inc., Canada Transportation Specialist
+1. 2022.11 – now     Beijing Jiaotong University, China  Assistant Professor
+2. 2020.07 - 2022.11 Beijing University of Technology, China  Postdoctoral Researcher
+3. 2021.01 – 2022.09 Polytechnique Montreal, Canada Postdoctoral Researcher
+4. 2021.01 – 2022.09 BusPas Inc., Canada Transportation Specialist
 
 
 
