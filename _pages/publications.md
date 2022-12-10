@@ -48,6 +48,9 @@ Here are my publications:
 1. 姚恩建、**潘龙**、张锐、金方磊. 一种基于交通和气象数据的交通空气污染物浓度实时估算方法和系统，公开号：CN106548258A. 2016 (Enjian Yao, **Long Pan**, Rui Zhang, Fanglei Jin. A method and system of real-time estimating traffic air pollution concentration based on traffic and meteorological data. 2016)
 2. 姚恩建, 张永生, **潘龙**, 杨扬, (2013). 一种城市轨道交通随机客流加载方法, 公开号：CN103218670A.
 
+# Software copyright:
+1. **潘龙**, 姚恩建. 城轨断面流量及换乘量统计系统V1.0, 登记号：2013SRBJ0469
+
 
 
 
