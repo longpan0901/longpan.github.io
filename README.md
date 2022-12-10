@@ -1,14 +1,22 @@
 # My Notes
 ## How to add a new content to the navigation
 
-If you want to add a new content to the navigation, **first** go to _data/navigation.yml, and add a new title and url. **second** go to _pages file to add a new .md
-file with the same name of url you added before. In the beginning of the .md file, add code like:
+If you want to add a new content to the navigation, **first** go to _data/navigation.yml, and add a new title and url. **second** go to _pages file to add a new .md file with the same name of url you added before. In the beginning of the .md file, add code like:
+
 ---
 layout: archive
+
 title: "Publications"
+
 permalink: /publications/
+
 author_profile: true
+
 ---
+
+At the end of the file you should also add some codes to link the page and other pages.
+
+
 
 A Github Pages template for academic websites. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
 
