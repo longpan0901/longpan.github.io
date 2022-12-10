@@ -83,12 +83,12 @@ author:
   name             : "Long Pan"
   avatar           : "profile.png"
   bio              : "I am an assistant professor in School of Traffic and Transportation, Beijing Jiaotong University, Beijing, China"
-  location         : "Location"
+  location         : "Beijing, China"
   employer         :
   pubmed           :
   googlescholar    :
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Long-Pan-6"
   uri              :
   bitbucket        :
   codepen          :
@@ -103,7 +103,7 @@ author:
   impactstory      :
   lastfm           :
   linkedin         : "longpanbjtu"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0003-4562-0345"
   pinterest        :
   soundcloud       :
   stackoverflow    :
