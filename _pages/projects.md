@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 # Current projects
+{% for post in site.projects %} {% include archive-single.html %} {% endfor %}
 
 # Previous projects
 ## As PI
