@@ -45,37 +45,18 @@ redirect_from:
 * Committee Member, Transportation Planning - Integrated Transportation Planning and Policies - Sustainable Transport, World Transportation Convention, Jan. 2021 - now
 * 专刊组稿专家, 《中国公路学报》“电动汽车充换电设施布局规划与调控运营”（2022-11-07发布，截稿时间2023-05-31，出版时间预计2024年3月）
 
+## Languages, Skills, and Hobbies
+### Languages
+* English (Intermediate level, IELTS 7.5, GRE 310+3.0)
+* Chinese (Native)
+### Skills
+* R, Matlab, Python, Java, LATEX
+* ArcGIS, BIOGEME, VISSIM, SPSS
+### Hobbies
+* Football. Being the footballer in our University Team for four years from 2014 to 2018
 
 
 
-
-
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -94,7 +75,3 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
