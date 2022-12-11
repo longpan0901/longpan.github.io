@@ -5,6 +5,8 @@ permalink: /projects/
 author_profile: true
 ---
 
+{% include base_path %}
+
 # Current projects
 {% for post in site.projects %} {% include archive-single.html %} {% endfor %}
 
