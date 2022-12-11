@@ -27,21 +27,3 @@ I received my PhD in Traffic and Transportation Planning and Management from [Be
 
 # My Interests
 Transit user choice behavior analysis; electric vehicle (EV) driver choice behavior analysis; EV charging facility optimization
-
-# My Background and History
-
-## Employment
-* 2022.11 – now     Assistant Professor, Beijing Jiaotong University, China  
-* 2020.07 - 2022.11 Postdoctoral Researcher, Beijing University of Technology, China  
-* 2021.01 – 2022.09 Postdoctoral Researcher, Polytechnique Montreal, Canada 
-* 2021.01 – 2022.09 Transportation Specialist, BusPas Inc., Canada 
-
-## Education
-* 2014 - 2019 PhD in Traffic and Transportation Planning and Management, School of Traffic and Transportation, Beijing Jiaotong University, Beijing, China.
-* 2017.10 - 2018.04 Visiting PhD student at University of Washington, Seattle, US.
-* 2012 - 2014 Master in Traffic and Transportation Engineering, School of Traffic and Transportation, Beijing Jiaotong University, Beijing, China.
-* 2008 - 2012 Bachelor in Transportation Engineering, School of Traffic and Transportation, Beijing Jiaotong University, Beijing, China.
-
-## Awards & Honours
-
-## Community Service
