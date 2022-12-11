@@ -5,9 +5,6 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-# test
-Just a test for this page
-
 {% include base_path %}
 
 
