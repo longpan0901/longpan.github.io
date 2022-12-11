@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "Long Pan"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,9 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-This is a website for introducing myself, and I am still trying to revise the website. 
-
-# Long Pan
 Assistant Professor
 
 School of Traffic and Transportation
