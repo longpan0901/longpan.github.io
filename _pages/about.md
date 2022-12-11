@@ -14,8 +14,6 @@ School of Traffic and Transportation
 
 Beijing Jiaotong University, Beijing, China
 
-Email: longpan@bjtu.edu.cn
-
 # About Me
 
 I am currently an assistant professor at School of Traffic and Transportation, Beijing Jiaotong University, Beijing, China. 
@@ -23,4 +21,13 @@ I am currently an assistant professor at School of Traffic and Transportation, B
 I received my PhD in Traffic and Transportation Planning and Management from [Beijing Jiaotong University](http://en.bjtu.edu.cn/). I was a postdoctoral researcher at [Polytechnique Montreal](https://www.polymtl.ca/en/), working with [Professor Owen Waygood](https://www.polymtl.ca/expertises/en/waygood-owen) from Polytechnique Montreal and [Professor Zachary Patterson](https://www.concordia.ca/faculty/zachary-patterson.html) from Concordia University. 
 
 # My Interests
-Transit user choice behavior analysis; electric vehicle (EV) driver choice behavior analysis; EV charging facility optimization
+* Transit user choice behavior analysis
+* Electric vehicle (EV) driver choice behavior analysis
+* EV charging facility optimization
+
+# Contact
+## Address
+8414, School of Traffic and Transportation, Beijing Jiaotong University, Beijing 100044, China
+
+## Email
+longpan@bjtu.edu.cn
