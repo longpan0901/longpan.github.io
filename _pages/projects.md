@@ -13,8 +13,7 @@ author_profile: true
 
 {% for post in site.projects %} {% include archive-single.html %} {% endfor %}
 
-[A test project](https://longpan0901.github.io/projects/projects-1.md)
-
+[A test project](https://longpan0901.github.io/projects/projects-1)
 
 # Previous projects
 ## As PI
