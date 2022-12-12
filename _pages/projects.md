@@ -10,7 +10,11 @@ author_profile: true
 # Current projects
 
 {% include base_path %}
+
 {% for post in site.projects %} {% include archive-single.html %} {% endfor %}
+
+[A test project](https://github.com/longpan0901/longpan0901.github.io/blob/dac5cf9c79c220614a6a5ac31550016af9cd3d81/_projects/projects-1.md)
+
 
 # Previous projects
 ## As PI
