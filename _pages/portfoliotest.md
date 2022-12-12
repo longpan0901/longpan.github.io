@@ -5,6 +5,10 @@ permalink: /portfoliotest/
 author_profile: true
 ---
 
+here is a test for linking different pages
+
+
+
 {% include base_path %}
 
 
