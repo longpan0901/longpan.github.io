@@ -10,7 +10,7 @@ collection: projects
 **PI**: Long Pan
 
 # Introduction
-This project tries to conduct an in-depth study on the usage pattern of dockless shared bikes. This project intends to first build a behavioral model from the perspective of guiding user behavior, analyzing the preference of parking place selection under incentives, and proposing an incentive-based optimization scheme to provide a new solution to alleviate the contradiction between supply and demand.
+This project tries to conduct an in-depth study on the usage pattern of dockless shared bikes in Beijing CBD area. This project intends to first build a behavioral model from the perspective of guiding user behavior, analyzing the preference of parking place selection under incentives, and proposing an incentive-based optimization scheme to provide a new solution to alleviate the contradiction between supply and demand.
 
 # Related Publications
 ## Conference Papers
