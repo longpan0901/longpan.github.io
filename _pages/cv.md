@@ -38,7 +38,7 @@ redirect_from:
 * Journal of Environmental Management, 1 paper, 2018
 
 ### Conference papers
-* 2021 World Transport Convention, 14 paper, 2021
+* 2021 World Transport Convention, 14 papers, 2021
 * COTA International Conference for Transportation Professionals 2018, 3 papers, 2017
 
 ## Community Service
@@ -58,20 +58,4 @@ redirect_from:
 
 
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
