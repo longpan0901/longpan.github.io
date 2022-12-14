@@ -13,11 +13,11 @@ author_profile: true
 
 {% for post in site.projects %} {% include archive-single.html %} {% endfor %}
 
-[A test project](https://longpan0901.github.io/projects/projects-1)
+[A test project](https://longpan0901.github.io/projects/projects1-CBD)
 
 # Previous projects
 ## As PI
-1. 2021.04 - 2022.11 主持 朝阳区博士后科研活动经费资助项目 CBD区域共享单车使用规律及停车地优化研究，3万
+1. 2021.04 - 2022.11 主持 朝阳区博士后科研活动经费资助项目 [CBD区域共享单车使用规律及停车地优化研究](https://longpan0901.github.io/projects/projects1-CBD)
 1. 2016.01 - 2017.01 主持《电动汽车充电需求分析及充电设施布局规划研究》基本科研业务费Study on EV charging demand analysis and charging infrastructures layout planning 3万
 1. 2017.01 - 2019.06 主持《基于充电行为分析的电动汽车充电设施布局规划研究》基本科研业务费 2万
 
