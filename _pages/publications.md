@@ -42,7 +42,7 @@ Here are my publications:
 
 
 # Book chapter
-1. Enjian Yao, Chunfu Shao, Fanglei Jin, **Long Pan**, Rui Zhang (2020). Chapter 8 - Battery electric vehicles in China: ownership and usage. In Junyi Zhang (Ed.), Transport and Energy Research: A Behavioral Perspective pp. 177-222.
+1. Enjian Yao, Chunfu Shao, Fanglei Jin, **Long Pan**, Rui Zhang (2020). [Chapter 8 - Battery electric vehicles in China: ownership and usage](https://doi.org/10.1016/B978-0-12-815965-1.00008-9). In Junyi Zhang (Ed.), *Transport and Energy Research: A Behavioral Perspective*, 177-222.
 
 # Patents
 1. 姚恩建、**潘龙**、张锐、金方磊. 一种基于交通和气象数据的交通空气污染物浓度实时估算方法和系统，公开号：CN106548258A. 2016 (Enjian Yao, **Long Pan**, Rui Zhang, Fanglei Jin. A method and system of real-time estimating traffic air pollution concentration based on traffic and meteorological data. 2016)
