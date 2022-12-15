@@ -16,11 +16,11 @@ redirect_from:
 * 2021.01 – 2022.09 **Transportation Specialist**, BusPas Inc., Canada 
 
 ## Education
-* 2014.09 - 2019.07 **PhD** in Traffic and Transportation Planning and Management, School of Traffic and Transportation, Beijing Jiaotong University, Beijing, China.
+* **PhD** in Traffic and Transportation Planning and Management, School of Traffic and Transportation, Beijing Jiaotong University, Beijing China, 2019
 (Dissertation: Charging Choice Behavior Based Location Optimization for EV Charging Facilities)
-* 2017.10 - 2018.04 **Visiting PhD student** at University of Washington, Seattle, US.
-* 2012.09 - 2014.07 **Master** in Traffic and Transportation Engineering, School of Traffic and Transportation, Beijing Jiaotong University, Beijing, China.
-* 2008.09 - 2012.07 **Bachelor** in Transportation Engineering, School of Traffic and Transportation, Beijing Jiaotong University, Beijing, China.
+* **Visiting PhD student**, University of Washington, Seattle US, 2017.10 - 2018.04
+* **Master** in Traffic and Transportation Engineering, School of Traffic and Transportation, Beijing Jiaotong University, Beijing China, 2014
+* **Bachelor** in Transportation Engineering, School of Traffic and Transportation, Beijing Jiaotong University, Beijing China., 2012
 
 ## Awards & Honours
 * Best Doctoral Dissertation from China Highway and Transportation Society, 2021
