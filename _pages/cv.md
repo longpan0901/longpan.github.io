@@ -32,9 +32,15 @@ redirect_from:
 ## Reviewer
 ### Journal articles
 * Travel Behaviour and Society, 1 paper, 2022.06
-* Sustainable Cities and Society, 1 paper, 2021
+* Findings, 1 paper, 2021.11
+* Sustainable Cities and Society, 1 paper, 2021.02
+* The Annals of Regional Science, 1 paper, 2021.01
 * Transportation Research Part D: Transport and Environment, 1 paper, 2020
+* Transactions on Intelligent Transportation Systems, 1 paper, 2020
 * Journal of Advanced Transportation, 1 paper, 2020
+* PeerJ, 1 paper, 2020
+* Journal of Traffic and Transportation Engineering (English Edition), 1 paper, 2020
+* Journal of Cleaner Production, 1 paper, 2020
 * Journal of Environmental Management, 1 paper, 2018
 
 ### Conference papers
