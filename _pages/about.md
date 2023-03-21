@@ -8,12 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-%Assistant Professor
-
-%School of Traffic and Transportation
-
-%Beijing Jiaotong University, Beijing, China
-
 # About Me
 
 I am currently an [Assistant Professor](https://faculty.bjtu.edu.cn/9962/) at School of Traffic and Transportation, Beijing Jiaotong University, Beijing, China. 
