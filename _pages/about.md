@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Assistant Professor
+%Assistant Professor
 
-School of Traffic and Transportation
+%School of Traffic and Transportation
 
-Beijing Jiaotong University, Beijing, China
+%Beijing Jiaotong University, Beijing, China
 
 # About Me
 
