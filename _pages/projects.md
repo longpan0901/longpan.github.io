@@ -13,8 +13,6 @@ author_profile: true
 
 {% for post in site.projects %} {% include archive-single.html %} {% endfor %}
 
-[A test project](https://longpan0901.github.io/projects/projects1-CBD)
-
 # Previous projects
 ## As PI
 1. 2021.04 - 2022.11 主持 朝阳区博士后科研活动经费资助项目 [CBD区域共享单车使用规律及停车地优化研究](https://longpan0901.github.io/projects/projects1-CBD)
