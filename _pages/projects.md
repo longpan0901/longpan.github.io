@@ -9,9 +9,9 @@ author_profile: true
 
 # Current projects
 
-{% include base_path %}
+<!--{% include base_path %}-->
 
-{% for post in site.projects %} {% include archive-single.html %} {% endfor %}
+<!--{% for post in site.projects %} {% include archive-single.html %} {% endfor %}-->
 
 # Previous projects
 ## As PI
