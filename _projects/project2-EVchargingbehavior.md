@@ -10,9 +10,12 @@ collection: projects
 **PI**: Long Pan
 
 ## Introduction
-This project tries to conduct an in-depth study on the usage pattern of dockless shared bikes in Beijing CBD area. This project intends to first build a behavioral model from the perspective of guiding user behavior, analyzing the preference of parking place selection under incentives, and proposing an incentive-based optimization scheme to provide a new solution to alleviate the contradiction between supply and demand.
+Based on an analysis of the charging behavior of EV users, this study investigates the configuration of public charging facilities considering different proportions of private charging facilities, taking into account the usage characteristics of different charging methods. Then, the layout, scale, and charging methods of the charging facilities are determined, taking into account the existing resources, in order to meet the travel demand and charging demand as much as possible. The layout, scale, and charging methods of charging facilities are calculated.
 
 ## Related Publications
+### Journal Articles
+1. **Long Pan**, Enjian Yao, Don MacKenzie (2019). [Modeling EV charging choice considering risk attitudes and attribute non-attendance](https://doi.org/10.1016/j.trc.2019.03.007). *Transportation Research Part C: Emerging Technologies, 102(3)*, 60–72.
+1. **Long Pan**, Enjian Yao, Don MacKenzie, Rui Zhang (2019). [Environmental Effects of BEV Penetration Considering Traffic Status](https://doi.org/10.1061/JTEPBS.0000275). *Journal of Transportation Engineering, Part A: Systems, 145(11)*, 1-10. (Selected as Editor's Choice in Nov. 2019)
+
 ### Conference Papers
-1. **Long Pan**, Enjian Yao, Yanyan Chen. Investigating the Usage of Dockless Bike Sharing in Beijing Central Business District. CICTP 2022. Changsha, China, 8-11 July, 2022.
-1. **潘龙**, 姚恩建, 陈艳艳. 北京CBD区域共享单车使用规律研究. 世界交通运输大会. 西安, 中国, 16-18 六月, 2021.
+1. **Long Pan**, Enjian Yao, Rui Zhang. A Location Model of EV Public Charging Station Considering Drivers’ Daily Activities and Range Anxiety: A Case Study of Beijing. Transportation Research Board (TRB) 96th Annual Meeting. Washington, D.C., United States, January, 2017
