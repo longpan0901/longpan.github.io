@@ -26,6 +26,7 @@ As a participant, my projects cover a diverse range of topics, such as micro tra
 2. 2020 Traffic Management of Urban Public Transportation in CBD area (商务中心区城市公共交通组织措施研究)，Beijing Central Business District Management Committee (北京CBD管委会，横向课题)
 3. 2020 Applicability of Traffic Calming of Urban Public Transportation in CBD area (商务中心区交通稳静化措施适用性研究，Beijing Central Business District Management Committee (北京CBD管委会，横向课题)
 4. 2017-2018 Use and Management of Subsiding Funds for the Construction of New Energy Vehicle Charging Facilities (新能源汽车充电设施建设奖励资金使用建议及管理办法研究)，Beijing Municipal Science and Technology Commission (北京市科委纵向课题)
+5. 2017.01 – 2018.01 Construction Planning for Parking Lot EV Chargers in Ordos, China (鄂尔多斯市停车场充电桩建设规划),  the Development and Reform Commission of Ordos (鄂尔多斯市发改委, 横向课题)
 8. 2016.10 - 2017.01  Third-party Assessment of Transportation Practical Matters for People's Livelihood in 2016 (2016年更贴近民生实事第三方评估)，Ministry of Transport of China (交通部, 横向课题)
 9. 2016.11 - 2016.10  Study on Operation and Management Mechanism of Public Charging Infrastructures (公用领域充电服务设施运营管理机制研究), Beijing International Engineering Consulting Corporation (北京国际工程咨询公司, 横向课题)
 10. 2015.01 - 2015.04  Beijing residents' travel survey analysis (居民出行入户调查样本数据分析), Beijing Transport Institute (北京市交通发展研究院，横向课题)
