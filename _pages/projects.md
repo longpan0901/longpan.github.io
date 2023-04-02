@@ -5,7 +5,9 @@ permalink: /projects/
 author_profile: true
 ---
 
+I have been involved in a variety of research projects in transportation planning, electric vehicles, shared mobility, urban public transportation, traffic management, and data analysis. Being as PI, the projects include studies on shared bicycles in CBD areas, EV charging infrastructure planning based on charging behavior, and charging demand analysis for EVs.
 
+As a participant, my projects cover a diverse range of topics, such as micro transit demand management using big data and AI, traffic management of urban public transportation in CBD areas, traffic calming applicability, funding and management of new energy vehicle charging infrastructure, third-party evaluation of public services, operation and management of public charging infrastructures, analysis of Beijing residents' travel surveys, traffic pollution concentration and its spatial-temporal distribution, and planning for public service facilities in the main urban roads of Yanqing County, Beijing. 
 
 # Current projects
 
