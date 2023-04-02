@@ -18,7 +18,7 @@ As a participant, my projects cover a diverse range of topics, such as micro tra
 ## Previous projects
 ### As PI
 1. 2021.04 - 2022.11 [Study on the Usage Pattern of Shared Bicycles and Optimization of Parking in CBD Area (CBD区域共享单车使用规律及停车地优化研究)](https://longpan0901.github.io/projects/projects1-CBD), Beijing Chaoyang District Postdoctoral Science Foundation (北京市朝阳区博士后科研活动经费资助项目)
-2. 2017.01 - 2019.06 Study on EV Charging Infrastructure Planning Based on Charging Behavior (基于充电行为分析的电动汽车充电设施布局规划研究), the Fundamental Research Funds for the Central Universities (中央高校基本科研业务费)
+2. 2017.01 - 2019.06 [Study on EV Charging Infrastructure Planning Based on Charging Behavior (基于充电行为分析的电动汽车充电设施布局规划研究)](https://longpan0901.github.io/projects/project2-EVchargingbehavior), the Fundamental Research Funds for the Central Universities (中央高校基本科研业务费)
 3. 2016.01 - 2017.01 Study on Charging Demand Analysis and Infrastructures Location Planning (电动汽车充电需求分析及充电设施布局规划研究), the Fundamental Research Funds for the Central Universities (中央高校基本科研业务费)
 
 ### As participant
