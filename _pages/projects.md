@@ -9,19 +9,19 @@ I have been involved in a variety of research projects in transportation plannin
 
 As a participant, my projects cover a diverse range of topics, such as micro transit demand management using big data and AI, traffic management of urban public transportation in CBD areas, traffic calming applicability, funding and management of new energy vehicle charging infrastructure, third-party evaluation of public services, operation and management of public charging infrastructures, analysis of Beijing residents' travel surveys, traffic pollution concentration and its spatial-temporal distribution, and planning for public service facilities in the main urban roads of Yanqing County, Beijing. 
 
-# Current projects
+## Current projects
 
 <!--{% include base_path %}-->
 
 <!--{% for post in site.projects %} {% include archive-single.html %} {% endfor %}-->
 
-# Previous projects
-## As PI
+## Previous projects
+### As PI
 1. 2021.04 - 2022.11 [Study on the Usage Pattern of Shared Bicycles and Optimization of Parking in CBD Area (CBD区域共享单车使用规律及停车地优化研究)](https://longpan0901.github.io/projects/projects1-CBD), Beijing Chaoyang District Postdoctoral Science Foundation (北京市朝阳区博士后科研活动经费资助项目)
 2. 2017.01 - 2019.06 Study on EV Charging Infrastructure Planning Based on Charging Behavior (基于充电行为分析的电动汽车充电设施布局规划研究), the Fundamental Research Funds for the Central Universities (中央高校基本科研业务费)
 3. 2016.01 - 2017.01 Study on Charging Demand Analysis and Infrastructures Location Planning (电动汽车充电需求分析及充电设施布局规划研究), the Fundamental Research Funds for the Central Universities (中央高校基本科研业务费)
 
-## As participant
+### As participant
 1. 2021.01 - 2022.09  Micro Transit Demand Management (microTDM) with Big Data and Artificial Intelligence, Mitacs (Canada)
 2. 2020 Traffic Management of Urban Public Transportation in CBD area (商务中心区城市公共交通组织措施研究)，Beijing Central Business District Management Committee (北京CBD管委会，横向课题)
 3. 2020 Applicability of Traffic Calming of Urban Public Transportation in CBD area (商务中心区交通稳静化措施适用性研究，Beijing Central Business District Management Committee (北京CBD管委会，横向课题)
