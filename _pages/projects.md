@@ -23,9 +23,9 @@ author_profile: true
 1. 2021.01 - 2022.09  Micro Transit Demand Management (microTDM) with Big Data and Artificial Intelligence, Mitacs (Canada)
 2. 2020 Traffic Management of Urban Public Transportation in CBD area (商务中心区城市公共交通组织措施研究)，Beijing Central Business District Management Committee (北京CBD管委会，横向课题)
 3. 2020 Applicability of Traffic Calming of Urban Public Transportation in CBD area (商务中心区交通稳静化措施适用性研究，Beijing Central Business District Management Committee (北京CBD管委会，横向课题)
-4. 2017-2018 新能源汽车充电设施建设奖励资金使用建议及管理办法研究，北京市科委纵向课题
-5. 2016.10 - 2017.01  2016年更贴近民生实事第三方评估，横向课题
-6. 2016.11 - 2016.10  公用领域充电服务设施运营管理机制研究(Study on operation and management mechanism of public charging infrastructures ), 北京国际工程咨询公司(Beijing International Engineering Consulting Corporation)
-7. 2015.01 - 2015.04  居民出行入户调查样本数据分析(Beijing residents' travel survey analysis), 北京市交通发展研究院(Beijing Transport Institute)
-8. 2013.10 - 2014.10  交通污染物浓度指数及其时空分布研究(Study on traffic pollution concentration index and its spatial-temporal distribution), NEC中国研究院(NEC China Institute)
-9. 2012.07 - 2012.09  延庆县主要城市道路公共服务设施点位规划，横向课题
+4. 2017-2018 Use and Management of Subsiding Funds for the Construction of New Energy Vehicle Charging Facilities (新能源汽车充电设施建设奖励资金使用建议及管理办法研究)，Beijing Municipal Science and Technology Commission (北京市科委纵向课题)
+8. 2016.10 - 2017.01  2016年更贴近民生实事第三方评估，横向课题
+9. 2016.11 - 2016.10  公用领域充电服务设施运营管理机制研究(Study on operation and management mechanism of public charging infrastructures ), 北京国际工程咨询公司(Beijing International Engineering Consulting Corporation)
+10. 2015.01 - 2015.04  居民出行入户调查样本数据分析(Beijing residents' travel survey analysis), 北京市交通发展研究院(Beijing Transport Institute)
+11. 2013.10 - 2014.10  交通污染物浓度指数及其时空分布研究(Study on traffic pollution concentration index and its spatial-temporal distribution), NEC中国研究院(NEC China Institute)
+12. 2012.07 - 2012.09  延庆县主要城市道路公共服务设施点位规划，横向课题
