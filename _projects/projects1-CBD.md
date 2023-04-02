@@ -1,11 +1,11 @@
 ---
-title: "CBD区域共享单车使用规律及停车地优化研究"
+title: "Study on the Usage Pattern of Shared Bicycles and Optimization of Parking in CBD Area (CBD区域共享单车使用规律及停车地优化研究)"
 excerpt: "this is the first project"
 collection: projects
 ---
 
 
-**Funded by**: Chaoyang District Postdoctoral Science Foundation
+**Funded by**: Beijing Chaoyang District Postdoctoral Science Foundation (北京市朝阳区博士后科研活动经费资助项目)
 
 **PI**: Long Pan
 
