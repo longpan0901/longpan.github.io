@@ -31,21 +31,21 @@ redirect_from:
 
 ## Reviewer
 ### Journal articles
-* Travel Behaviour and Society, 1 paper, 2022.06
-* Findings, 1 paper, 2021.11
-* Sustainable Cities and Society, 1 paper, 2021.02
-* The Annals of Regional Science, 1 paper, 2021.01
-* Transportation Research Part D: Transport and Environment, 1 paper, 2020
-* Transactions on Intelligent Transportation Systems, 1 paper, 2020
-* Journal of Advanced Transportation, 1 paper, 2020
-* PeerJ, 1 paper, 2020
-* Journal of Traffic and Transportation Engineering (English Edition), 1 paper, 2020
-* Journal of Cleaner Production, 1 paper, 2020
-* Journal of Environmental Management, 1 paper, 2018
+* Transportation Research Part D: Transport and Environment, 2020
+* IEEE Transactions on Intelligent Transportation Systems, 2020
+* Journal of Advanced Transportation, 2020
+* Sustainable Cities and Society, 2021
+* Travel Behaviour and Society, 2022
+* Journal of Environmental Management, 2018
+* Journal of Cleaner Production, 2020
+* The Annals of Regional Science, 2021  
+* PeerJ, 2020
+* Findings, 2021
+* Journal of Traffic and Transportation Engineering (English Edition), 2020
 
 ### Conference papers
-* 2021 World Transport Convention, 14 papers, 2021
-* COTA International Conference for Transportation Professionals 2018, 3 papers, 2017
+* 2021 World Transport Convention, 2021, 2022, 2023
+* COTA International Conference for Transportation Professionals, 2017
 
 ## Community Service
 * Committee Member, Transportation Planning - Integrated Transportation Planning and Policies - Sustainable Transport, World Transportation Convention, Jan. 2021 - now
