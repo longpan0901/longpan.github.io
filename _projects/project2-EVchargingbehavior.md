@@ -18,4 +18,4 @@ Based on an analysis of the charging behavior of EV users, this study investigat
 1. **Long Pan**, Enjian Yao, Don MacKenzie, Rui Zhang (2019). [Environmental Effects of BEV Penetration Considering Traffic Status](https://doi.org/10.1061/JTEPBS.0000275). *Journal of Transportation Engineering, Part A: Systems, 145(11)*, 1-10. (Selected as Editor's Choice in Nov. 2019)
 
 ### Conference Papers
-1. **Long Pan**, Enjian Yao, Rui Zhang. A Location Model of EV Public Charging Station Considering Drivers’ Daily Activities and Range Anxiety: A Case Study of Beijing. Transportation Research Board (TRB) 96th Annual Meeting. Washington, D.C., United States, January, 2017
+1. **Long Pan**, Enjian Yao, Rui Zhang. A Location Model for Evaluating Demand-Fulfillment Effect of Public and Home Charging Network: A Case Study of Beijing. Transportation Research Board (TRB) 97th Annual Meeting. Washington, D.C., United States, January, 2018
