@@ -49,7 +49,7 @@ redirect_from:
 
 ## Community Service
 * Committee Member, Transportation Planning - Integrated Transportation Planning and Policies - Sustainable Transport, World Transportation Convention, Jan. 2021 - now
-* 专刊组稿专家, 《中国公路学报》“电动汽车充换电设施布局规划与调控运营”（2022-11-07发布，截稿时间2023-05-31，出版时间预计2024年3月）
+* Guest expert, special issue of China Journal of Highway and Transport (in Chinese)
 
 ## Languages, Skills, and Hobbies
 ### Languages
