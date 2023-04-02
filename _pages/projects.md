@@ -14,12 +14,12 @@ author_profile: true
 <!--{% for post in site.projects %} {% include archive-single.html %} {% endfor %}-->
 
 # Previous projects
-## 主持 As PI
-1. 2021.04 - 2022.11 主持 朝阳区博士后科研活动经费资助项目 [CBD区域共享单车使用规律及停车地优化研究](https://longpan0901.github.io/projects/projects1-CBD)
-1. 2016.01 - 2017.01 主持《电动汽车充电需求分析及充电设施布局规划研究》基本科研业务费Study on EV charging demand analysis and charging infrastructures layout planning 3万
-1. 2017.01 - 2019.06 主持《基于充电行为分析的电动汽车充电设施布局规划研究》基本科研业务费 2万
+## As PI
+1. 2021.04 - 2022.11 [Study on the Usage Pattern of Shared Bicycles and Optimization of Parking in CBD Area (CBD区域共享单车使用规律及停车地优化研究)](https://longpan0901.github.io/projects/projects1-CBD), Beijing Chaoyang District Postdoctoral Science Foundation (北京市朝阳区博士后科研活动经费资助项目)
+1. 2016.01 - 2017.01 电动汽车充电需求分析及充电设施布局规划研究Study on EV charging demand analysis and charging infrastructures layout planning, 基本科研业务费
+1. 2017.01 - 2019.06 基于充电行为分析的电动汽车充电设施布局规划研究, 基本科研业务费
 
-## 参与 As participant
+## As participant
 1. 2021.01 - 2022.09  Micro Transit Demand Management (microTDM) with Big Data and Artificial Intelligence, Mitacs (Canada)
 2. 2020 商务中心区城市公共交通组织措施研究，横向课题
 3. 2020 商务中心区交通稳静化措施适用性研究，横向课题
