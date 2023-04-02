@@ -11,7 +11,7 @@ As a participant, my projects cover a diverse range of topics, such as micro tra
 
 ## Current projects
 ### As PI
-1. 2023 - now [Demand Prediction and Allocation Optimization of Shared Bicycle Based on Deep Learning (基于深度学习的共享单车需求预测和配置优化研究)](), the Fundamental Research Funds for the Central Universities (中央高校基本科研业务费)
+1. 2023 - now [Demand Prediction and Allocation Optimization of Shared Bicycle Based on Deep Learning (基于深度学习的共享单车需求预测和配置优化研究)](https://longpan0901.github.io/projects/project4-bikesharingdeeplearning), the Fundamental Research Funds for the Central Universities (中央高校基本科研业务费)
 
 ## Previous projects
 ### As PI
