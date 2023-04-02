@@ -10,10 +10,8 @@ I have been involved in a variety of research projects in transportation plannin
 As a participant, my projects cover a diverse range of topics, such as micro transit demand management using big data and AI, traffic management of urban public transportation in CBD areas, traffic calming applicability, funding and management of new energy vehicle charging infrastructure, third-party evaluation of public services, operation and management of public charging infrastructures, analysis of Beijing residents' travel surveys, traffic pollution concentration and its spatial-temporal distribution, and planning for public service facilities in the main urban roads of Yanqing County, Beijing. 
 
 ## Current projects
-
-<!--{% include base_path %}-->
-
-<!--{% for post in site.projects %} {% include archive-single.html %} {% endfor %}-->
+### As PI
+1. 2023 - now [Demand Prediction and Allocation Optimization of Shared Bicycle Based on Deep Learning (基于深度学习的共享单车需求预测和配置优化研究)](), the Fundamental Research Funds for the Central Universities (中央高校基本科研业务费)
 
 ## Previous projects
 ### As PI
