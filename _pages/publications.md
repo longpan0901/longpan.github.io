@@ -31,19 +31,19 @@ Here are my publications:
 
 # Conference papers (first or corresponding author)
 1. **Long Pan**, E.O.D. Waygood, Zachary Patterson. Public Transit Itinerary Choice Analysis Considering Various Incentives. *Transportation Research Board* (TRB) 102nd Annual Meeting. Washington, D.C., United States, January, 2023
-2. **Long Pan**, E.O.D. Waygood, Zachary Patterson. Public transit itinerary choice analysis considering various incentives. 16th International Conference on Travel Behaviour Research. Santiago, Chile, 11-15 December 2022
-3. **Long Pan**, E.O.D. Waygood, Zachary Patterson. Would You Wait? Bus Choice Behavior Analysis Considering Various Incentives. Transportation Research Board (TRB) 101st Annual Meeting. Washington, D.C., United States, January, 2022.
-4. **Long Pan**, Enjian Yao, Yanyan Chen. Investigating the Usage of Dockless Bike Sharing in Beijing Central Business District. CICTP 2022. Changsha, China, 8-11 July, 2022.
-5. **潘龙**, 姚恩建, 陈艳艳. 北京CBD区域共享单车使用规律研究. 世界交通运输大会. 西安, 中国, 16-18 六月, 2021.
-6. **Long Pan**, Enjian Yao, Rui Zhang. A Location Model for Evaluating Demand-Fulfillment Effect of Public and Home Charging Network: A Case Study of Beijing. Transportation Research Board (TRB) 97th Annual Meeting. Washington, D.C., United States, January, 2018
-7. **Long Pan**, Enjian Yao, Rui Zhang. A Location Model of EV Public Charging Station Considering Drivers’ Daily Activities and Range Anxiety: A Case Study of Beijing. Transportation Research Board (TRB) 96th Annual Meeting. Washington, D.C., United States, January, 2017
-8. **Long Pan**, Enjian Yao, Rui Zhang, Meiying Wang. Environmental Effect Analysis of EVs under various EV Penetrations: A Case Study of Beijing. Transportation Research Board (TRB) 95th Annual Meeting. Washington, D.C., United States, January, 2016
-9. **Long Pan**, Enjian Yao, Dongfei Xia, Yang Yang. Forecasting Hourly Traffic-related Air Pollution Concentration in Beijing Based on Traffic and Basic Meteorological Information. Transportation Research Board (TRB) 95th Annual Meeting. Washington, D.C., United States, January, 2016
+1. **Long Pan**, E.O.D. Waygood, Zachary Patterson. Public transit itinerary choice analysis considering various incentives. 16th International Conference on Travel Behaviour Research. Santiago, Chile, 11-15 December 2022
+1. **Long Pan**, E.O.D. Waygood, Zachary Patterson. Would You Wait? Bus Choice Behavior Analysis Considering Various Incentives. Transportation Research Board (TRB) 101st Annual Meeting. Washington, D.C., United States, January, 2022.
+1. **Long Pan**, Enjian Yao, Yanyan Chen. Investigating the Usage of Dockless Bike Sharing in Beijing Central Business District. CICTP 2022. Changsha, China, 8-11 July, 2022.
+1. **潘龙**, 姚恩建, 陈艳艳. 北京CBD区域共享单车使用规律研究. 世界交通运输大会. 西安, 中国, 16-18 六月, 2021.
+1. **Long Pan**, Enjian Yao, Rui Zhang. A Location Model for Evaluating Demand-Fulfillment Effect of Public and Home Charging Network: A Case Study of Beijing. Transportation Research Board (TRB) 97th Annual Meeting. Washington, D.C., United States, January, 2018
+1. **Long Pan**, Enjian Yao, Rui Zhang. A Location Model of EV Public Charging Station Considering Drivers’ Daily Activities and Range Anxiety: A Case Study of Beijing. Transportation Research Board (TRB) 96th Annual Meeting. Washington, D.C., United States, January, 2017
+1. **Long Pan**, Enjian Yao, Rui Zhang, Meiying Wang. Environmental Effect Analysis of EVs under various EV Penetrations: A Case Study of Beijing. Transportation Research Board (TRB) 95th Annual Meeting. Washington, D.C., United States, January, 2016
+1. **Long Pan**, Enjian Yao, Dongfei Xia, Yang Yang. Forecasting Hourly Traffic-related Air Pollution Concentration in Beijing Based on Traffic and Basic Meteorological Information. Transportation Research Board (TRB) 95th Annual Meeting. Washington, D.C., United States, January, 2016
 
 # Conference papers (others)
-11. Yao Enjian, **Pan Long**, Yang Yang, Zhang Yongsheng. Taxi Driver's Route Choice Behavior Analysis Based on Floating Car Data. Applied Mechanics and Materials, Vols. 361-363 (2013): 2036-2039
-12. Kangning Zheng, Enjian Yao, Yongsheng Zhang, **Long Pan**. Exploring Daily Travel Monetary and Time Frontiers Based on Stochastic Frontier Model in Beijing, China. The 18th COTA International Conference of Transportation Professionals (CICTP2018). Beijing, China, 5-8 July, 2018.
-13. Dongfei Xia, Enjian Yao, Rui Zhang, **Long Pan**, Zheng Pan. Evaluating Traffic Air Pollution in Urban Area Based on Real-time Traffic and Meteorological Information. The 15th COTA International Conference of Transportation Professionals (CICTP2015). Beijing, China, 24-27 July, 2015. pp: 3324-3335.
+1. Yao Enjian, **Pan Long**, Yang Yang, Zhang Yongsheng. Taxi Driver's Route Choice Behavior Analysis Based on Floating Car Data. Applied Mechanics and Materials, Vols. 361-363 (2013): 2036-2039
+1. Kangning Zheng, Enjian Yao, Yongsheng Zhang, **Long Pan**. Exploring Daily Travel Monetary and Time Frontiers Based on Stochastic Frontier Model in Beijing, China. The 18th COTA International Conference of Transportation Professionals (CICTP2018). Beijing, China, 5-8 July, 2018.
+1. Dongfei Xia, Enjian Yao, Rui Zhang, **Long Pan**, Zheng Pan. Evaluating Traffic Air Pollution in Urban Area Based on Real-time Traffic and Meteorological Information. The 15th COTA International Conference of Transportation Professionals (CICTP2015). Beijing, China, 24-27 July, 2015. pp: 3324-3335.
 
 
 # Book chapter
