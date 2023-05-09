@@ -8,7 +8,8 @@ author_profile: true
 Here are my publications:
 
 # Journal articles
-1. **Long Pan**, E.O.D. Waygood, Zachary Patterson (2022). [Would You Wait? Bus Choice Behavior Analysis Considering Various Incentives](https://doi.org/10.1177/03611981221076843). *Transportation Research Record*, 03611981221076843.
+1. **Long Pan**, E.O.D. Waygood, Zachary Patterson (2023). [Public Transit Itinerary Choice Analysis Considering Various Incentives](https://doi.org/10.1177/03611981231166682). *Transportation Research Record: Journal of the Transportation Research Board*, 036119812311666.
+1. **Long Pan**, E.O.D. Waygood, Zachary Patterson (2022). [Would You Wait? Bus Choice Behavior Analysis Considering Various Incentives](https://doi.org/10.1177/03611981221076843). *Transportation Research Record: Journal of the Transportation Research Board*, 03611981221076843.
 1. **Long Pan**, Enjian Yao, Yang Yang, Rui Zhang (2020). [A location model for electric vehicle (EV) public charging stations based on drivers’ existing activities](https://doi.org/10.1016/j.scs.2020.102192). *Sustainable Cities and Society, 59(4)*, 102192. 
 1. **Long Pan**, Enjian Yao, Don MacKenzie (2019). [Modeling EV charging choice considering risk attitudes and attribute non-attendance](https://doi.org/10.1016/j.trc.2019.03.007). *Transportation Research Part C: Emerging Technologies, 102(3)*, 60–72.
 1. **Long Pan**, Enjian Yao, Don MacKenzie, Rui Zhang (2019). [Environmental Effects of BEV Penetration Considering Traffic Status](https://doi.org/10.1061/JTEPBS.0000275). *Journal of Transportation Engineering, Part A: Systems, 145(11)*, 1-10. (Selected as Editor's Choice in Nov. 2019)
