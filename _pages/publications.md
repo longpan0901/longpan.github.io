@@ -17,17 +17,17 @@ Here are my publications:
 1. Keyan Bai, Enjian Yao, **Long Pan (Corresponding Author)**, Linze Li, Wei Chen (2020). [Dynamic Crosswalk Signal Timing Optimization Model Considering Vehicle and Pedestrian Delays and Fuel Consumption Cost](https://doi.org/10.3390/su12020689). *Sustainability, 12(2)*, 689.
 
 # Journal articles (others)
-3. Yue Wang, Enjian Yao, **Long Pan** (2020). [Electric vehicle drivers’ charging behavior analysis considering heterogeneity and satisfaction](https://doi.org/10.1016/j.jclepro.2020.124982). *Journal of Cleaner Production, 286*, 124982.
-4. Enjian Yao, Xiaowen Wang, Yang Yang, **Long Pan**, Yuanyuan Song (2020). [Traffic Flow Estimation Based on Toll Ticket Data Considering Multitype Vehicle Impact](https://doi.org/10.1061/jtepbs.0000488). *Journal of Transportation Engineering, Part A: Systems, 147(2)*, 04020158.
-5. Tianwei Lu, Enjian Yao, Fanglei Jin, **Long Pan** (2020). [Alternative incentive policies against purchase subsidy decrease for Battery Electric Vehicle (BEV) adoption](https://doi.org/10.3390/en13071645). *Energies, 13(7)*, 1645.
-6.	Rui Zhang, Enjian Yao, **Long Pan** (2019). [Optimizing EV-based P&R subsidy policies for commuting corridor based on cross-nested logit model](https://doi.org/10.1080/15568318.2018.1482032). *International Journal of Sustainable Transportation, 13(7)*: 461-478.
-7.	Enjian Yao, Junyi Hong, **Long Pan**, Binbin Li, Yang Yang, Dongbo Guo (2021). [Forecasting Passenger Flow Distribution on Holidays for Urban Rail Transit Based on Destination Choice Behavior Analysis](https://doi.org/10.1155/2021/9922660). Journal of Advanced Transportation, 2021.
-8. 姚恩建, 何媛媛, 金方磊, 卢天伟, **潘龙** (2020). [面向自组织平衡的共享电动汽车调度优化方法](https://www.cnki.com.cn/Article/CJFDTotal-YSXT202005020.htm). *交通运输系统工程与信息, 20(05)*, 135-141.
-9. 姚恩建，邹萌，杨扬，**潘龙** (2018). [基于出行行为分析的停车换乘设施定价优化](https://doi.org/10.12011/1000-6788(2018)05-1277-07). *系统工程理论与实践，38(5)*, 1277-1283.
-10. 邹萌, 姚恩建, **潘龙**, 宋媛媛 (2016). [基于微观能耗模型的电动汽车生态驾驶行为研究[EB/OL]](http://www.paper.edu.cn/releasepaper/content/201609-237). 北京：中国科技论文在线[2016-09-27].
-11. 杨扬, 姚恩建, **潘龙** (2015). [基于GPS数据的出租车路径选择行为研究](http://dx.chinadoi.cn/10.3969/j.issn.1009-6744.2015.01.015). *交通运输系统工程与信息, 2015(1)*, 81-86.
-12. 鲁楠, 姚恩建, **潘龙**, 潘征 (2015). [基于高斯扩散模型的北京市道路交通空气污染的敏感性分析](http://cqvip7.jskjxx.org/article/detail.aspx?id=664511886). 道路交通与安全, 2015, 15(2), 55-60.
-13. 杨扬, 姚恩建, 王梅英, **潘龙** (2015). [电动汽车混入条件下的随机用户均衡分配模型](http://zgglxb.chd.edu.cn/CN/Y2015/V28/I9/91). *中国公路学报, 28(9)*, 91-97.
+1. Yue Wang, Enjian Yao, **Long Pan** (2020). [Electric vehicle drivers’ charging behavior analysis considering heterogeneity and satisfaction](https://doi.org/10.1016/j.jclepro.2020.124982). *Journal of Cleaner Production, 286*, 124982.
+1. Enjian Yao, Xiaowen Wang, Yang Yang, **Long Pan**, Yuanyuan Song (2020). [Traffic Flow Estimation Based on Toll Ticket Data Considering Multitype Vehicle Impact](https://doi.org/10.1061/jtepbs.0000488). *Journal of Transportation Engineering, Part A: Systems, 147(2)*, 04020158.
+1. Tianwei Lu, Enjian Yao, Fanglei Jin, **Long Pan** (2020). [Alternative incentive policies against purchase subsidy decrease for Battery Electric Vehicle (BEV) adoption](https://doi.org/10.3390/en13071645). *Energies, 13(7)*, 1645.
+1. Rui Zhang, Enjian Yao, **Long Pan** (2019). [Optimizing EV-based P&R subsidy policies for commuting corridor based on cross-nested logit model](https://doi.org/10.1080/15568318.2018.1482032). *International Journal of Sustainable Transportation, 13(7)*: 461-478.
+1. Enjian Yao, Junyi Hong, **Long Pan**, Binbin Li, Yang Yang, Dongbo Guo (2021). [Forecasting Passenger Flow Distribution on Holidays for Urban Rail Transit Based on Destination Choice Behavior Analysis](https://doi.org/10.1155/2021/9922660). Journal of Advanced Transportation, 2021.
+1. 姚恩建, 何媛媛, 金方磊, 卢天伟, **潘龙** (2020). [面向自组织平衡的共享电动汽车调度优化方法](https://www.cnki.com.cn/Article/CJFDTotal-YSXT202005020.htm). *交通运输系统工程与信息, 20(05)*, 135-141.
+1. 姚恩建，邹萌，杨扬，**潘龙** (2018). [基于出行行为分析的停车换乘设施定价优化](https://doi.org/10.12011/1000-6788(2018)05-1277-07). *系统工程理论与实践，38(5)*, 1277-1283.
+1. 邹萌, 姚恩建, **潘龙**, 宋媛媛 (2016). [基于微观能耗模型的电动汽车生态驾驶行为研究[EB/OL]](http://www.paper.edu.cn/releasepaper/content/201609-237). 北京：中国科技论文在线[2016-09-27].
+1. 杨扬, 姚恩建, **潘龙** (2015). [基于GPS数据的出租车路径选择行为研究](http://dx.chinadoi.cn/10.3969/j.issn.1009-6744.2015.01.015). *交通运输系统工程与信息, 2015(1)*, 81-86.
+1. 鲁楠, 姚恩建, **潘龙**, 潘征 (2015). [基于高斯扩散模型的北京市道路交通空气污染的敏感性分析](http://cqvip7.jskjxx.org/article/detail.aspx?id=664511886). 道路交通与安全, 2015, 15(2), 55-60.
+1. 杨扬, 姚恩建, 王梅英, **潘龙** (2015). [电动汽车混入条件下的随机用户均衡分配模型](http://zgglxb.chd.edu.cn/CN/Y2015/V28/I9/91). *中国公路学报, 28(9)*, 91-97.
 
 # Conference papers (first or corresponding author)
 1. **Long Pan**, E.O.D. Waygood, Zachary Patterson. Public Transit Itinerary Choice Analysis Considering Various Incentives. *Transportation Research Board* (TRB) 102nd Annual Meeting. Washington, D.C., United States, January, 2023
