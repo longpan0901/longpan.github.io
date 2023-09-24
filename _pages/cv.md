@@ -31,11 +31,13 @@ redirect_from:
 
 ## Reviewer
 ### Journal articles
-* Transportation Research Part D: Transport and Environment, 2020
+* Transportation Research Part A: Policy and Practice, 2023
+* Transportation Research Part D: Transport and Environment, 2020, 2023
+* China J. Highw. Transp. (中国公路学报), 2023
+* Travel Behaviour and Society, 2022
 * IEEE Transactions on Intelligent Transportation Systems, 2020
 * Journal of Advanced Transportation, 2020
 * Sustainable Cities and Society, 2021
-* Travel Behaviour and Society, 2022
 * Journal of Environmental Management, 2018
 * Journal of Cleaner Production, 2020
 * The Annals of Regional Science, 2021  
@@ -44,7 +46,9 @@ redirect_from:
 * Journal of Traffic and Transportation Engineering (English Edition), 2020
 
 ### Conference papers
-* 2021 World Transport Convention, 2021, 2022, 2023
+* Transportation Research Board (TRB) Annual Meeting, 2022, 2023
+* ITS World Congress, 2023
+* World Transport Convention, 2021, 2022, 2023
 * COTA International Conference for Transportation Professionals, 2017
 
 ## Community Service
