@@ -17,11 +17,12 @@ Here are my publications:
 1. Keyan Bai, Enjian Yao, **Long Pan (Corresponding Author)**, Linze Li, Wei Chen (2020). [Dynamic Crosswalk Signal Timing Optimization Model Considering Vehicle and Pedestrian Delays and Fuel Consumption Cost](https://doi.org/10.3390/su12020689). *Sustainability, 12(2)*, 689.
 
 # Journal articles (others)
-1. Yue Wang, Enjian Yao, **Long Pan** (2020). [Electric vehicle drivers’ charging behavior analysis considering heterogeneity and satisfaction](https://doi.org/10.1016/j.jclepro.2020.124982). *Journal of Cleaner Production, 286*, 124982.
+1. Tianyu Zhang, Enjian Yao, Yang Yang, **Long Pan**, et al (2023). [Deployment optimization of battery swapping stations accounting for taxis’ dynamic energy demand](https://doi.org/10.1016/j.trd.2023.103617). *Transportation Research Part D: Transport and Environment*, 116: 103617.
+2. Enjian Yao, Junyi Hong, **Long Pan**, Binbin Li, Yang Yang, Dongbo Guo (2021). [Forecasting Passenger Flow Distribution on Holidays for Urban Rail Transit Based on Destination Choice Behavior Analysis](https://doi.org/10.1155/2021/9922660). Journal of Advanced Transportation, 2021.
+3. Yue Wang, Enjian Yao, **Long Pan** (2020). [Electric vehicle drivers’ charging behavior analysis considering heterogeneity and satisfaction](https://doi.org/10.1016/j.jclepro.2020.124982). *Journal of Cleaner Production, 286*, 124982.
 1. Enjian Yao, Xiaowen Wang, Yang Yang, **Long Pan**, Yuanyuan Song (2020). [Traffic Flow Estimation Based on Toll Ticket Data Considering Multitype Vehicle Impact](https://doi.org/10.1061/jtepbs.0000488). *Journal of Transportation Engineering, Part A: Systems, 147(2)*, 04020158.
 1. Tianwei Lu, Enjian Yao, Fanglei Jin, **Long Pan** (2020). [Alternative incentive policies against purchase subsidy decrease for Battery Electric Vehicle (BEV) adoption](https://doi.org/10.3390/en13071645). *Energies, 13(7)*, 1645.
 1. Rui Zhang, Enjian Yao, **Long Pan** (2019). [Optimizing EV-based P&R subsidy policies for commuting corridor based on cross-nested logit model](https://doi.org/10.1080/15568318.2018.1482032). *International Journal of Sustainable Transportation, 13(7)*: 461-478.
-1. Enjian Yao, Junyi Hong, **Long Pan**, Binbin Li, Yang Yang, Dongbo Guo (2021). [Forecasting Passenger Flow Distribution on Holidays for Urban Rail Transit Based on Destination Choice Behavior Analysis](https://doi.org/10.1155/2021/9922660). Journal of Advanced Transportation, 2021.
 1. 姚恩建, 何媛媛, 金方磊, 卢天伟, **潘龙** (2020). [面向自组织平衡的共享电动汽车调度优化方法](https://www.cnki.com.cn/Article/CJFDTotal-YSXT202005020.htm). *交通运输系统工程与信息, 20(05)*, 135-141.
 1. 姚恩建，邹萌，杨扬，**潘龙** (2018). [基于出行行为分析的停车换乘设施定价优化](https://doi.org/10.12011/1000-6788(2018)05-1277-07). *系统工程理论与实践，38(5)*, 1277-1283.
 1. 邹萌, 姚恩建, **潘龙**, 宋媛媛 (2016). [基于微观能耗模型的电动汽车生态驾驶行为研究[EB/OL]](http://www.paper.edu.cn/releasepaper/content/201609-237). 北京：中国科技论文在线[2016-09-27].
@@ -41,9 +42,13 @@ Here are my publications:
 1. **Long Pan**, Enjian Yao, Dongfei Xia, Yang Yang. Forecasting Hourly Traffic-related Air Pollution Concentration in Beijing Based on Traffic and Basic Meteorological Information. Transportation Research Board (TRB) 95th Annual Meeting. Washington, D.C., United States, January, 2016
 
 # Conference papers (others)
-1. Yao Enjian, **Pan Long**, Yang Yang, Zhang Yongsheng. Taxi Driver's Route Choice Behavior Analysis Based on Floating Car Data. Applied Mechanics and Materials, Vols. 361-363 (2013): 2036-2039
+1. Yue Wang, Enjian Yao, Yongsheng Zhang, He Hao, **Long Pan**. Urban rail transit short-term OD flow prediction considering temporal-spatial characteristics and probability. ITS World Congress 2023. Suzhou, China, October, 2023.
+2. Linlin Zou, Enjian Yao, **Long Pan**. An Evaluation of Shared Bicycle Incentivizing Strategy Based on Self-Rebalancing. WTC. Wuhan, China, June, 2023.
+3. 姚恩建, 周昕, **潘龙**. 考虑多车型综合通行成本的交叉口信号配时优化. 世界交通大会(WTC). 武汉, 中国, 六月, 2023.
 1. Kangning Zheng, Enjian Yao, Yongsheng Zhang, **Long Pan**. Exploring Daily Travel Monetary and Time Frontiers Based on Stochastic Frontier Model in Beijing, China. The 18th COTA International Conference of Transportation Professionals (CICTP2018). Beijing, China, 5-8 July, 2018.
 1. Dongfei Xia, Enjian Yao, Rui Zhang, **Long Pan**, Zheng Pan. Evaluating Traffic Air Pollution in Urban Area Based on Real-time Traffic and Meteorological Information. The 15th COTA International Conference of Transportation Professionals (CICTP2015). Beijing, China, 24-27 July, 2015. pp: 3324-3335.
+2. 杨扬, 姚恩建, **潘龙**，基于GPS数据的出租车路径选择行为研究, 18届SESC年会学术论文集,2014.
+3. Yao Enjian, **Pan Long**, Yang Yang, Zhang Yongsheng. Taxi Driver's Route Choice Behavior Analysis Based on Floating Car Data. Applied Mechanics and Materials, Vols. 361-363 (2013): 2036-2039
 
 
 # Book chapter
