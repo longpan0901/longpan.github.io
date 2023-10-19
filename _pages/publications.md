@@ -32,6 +32,7 @@ Here are my publications:
 
 # Conference papers (first or corresponding author)
 1. **Long Pan**, E.O.D. Waygood, Zachary Patterson. Public Transit Itinerary Choice Analysis Considering Various Incentives. *Transportation Research Board* (TRB) 102nd Annual Meeting. Washington, D.C., United States, January, 2023
+2. Ashkan Amirnia, **Long Pan (Corresponding Author)**, E.O.D. Waygood, Zachary Patterson, Nizar Bouguila. Personalized Bus Recommender System Approach For Flattening Demand. Transportation Research Board (TRB) 102nd Annual Meeting. Washington, D.C., United States, January, 2023
 1. **Long Pan**, E.O.D. Waygood, Zachary Patterson. Public transit itinerary choice analysis considering various incentives. 16th International Conference on Travel Behaviour Research. Santiago, Chile, 11-15 December 2022
 1. **Long Pan**, E.O.D. Waygood, Zachary Patterson. Would You Wait? Bus Choice Behavior Analysis Considering Various Incentives. Transportation Research Board (TRB) 101st Annual Meeting. Washington, D.C., United States, January, 2022.
 1. **Long Pan**, Enjian Yao, Yanyan Chen. Investigating the Usage of Dockless Bike Sharing in Beijing Central Business District. CICTP 2022. Changsha, China, 8-11 July, 2022.
